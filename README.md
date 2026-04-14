@@ -1,20 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**90’s Cafe – Website**
 
-# Run and deploy your AI Studio app
+This is a modern and responsive website created for *90’s Cafe*, a restaurant located in Kalampur Bazar, Dhamrai, Dhaka. The website showcases the cafe’s menu, ambiance, and essential information in a clean and user-friendly design.
 
-This contains everything you need to run your app locally.
+Developed by **AkashProg**, this project reflects a practical implementation of front-end web development skills.
 
-View your app in AI Studio: https://ai.studio/apps/e013be70-2bc2-47ee-92d5-6654fd32f86d
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🔗 **Live Preview:**   https://90s-cafe.netlify.app/
